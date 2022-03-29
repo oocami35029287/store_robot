@@ -1,0 +1,11 @@
+Model Information:
+* title:	Store Shelf
+* source:	https://sketchfab.com/3d-models/store-shelf-b376d3660b9641b9859d4ab2b2a482cf
+* author:	Bellamy Luna Brooks (https://sketchfab.com/bythebelle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Store Shelf" (https://sketchfab.com/3d-models/store-shelf-b376d3660b9641b9859d4ab2b2a482cf) by Bellamy Luna Brooks (https://sketchfab.com/bythebelle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
